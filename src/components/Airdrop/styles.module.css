@@ -1,0 +1,25 @@
+.airdropPanel {
+  background: #181c27;
+  border-radius: 20px;
+  padding: 32px;
+  box-shadow: 0 4px 24px #0002;
+}
+
+.claim-btn {
+  background: #47ffa6;
+  color: #222;
+  font-weight: bold;
+  border: none;
+  padding: 12px 36px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.claim-btn:hover {
+  background: #2dd4aa;
+}
+.status.success {
+  color: #18e668;
+}
+.status.failed {
+  color: #ef4444;
+}
