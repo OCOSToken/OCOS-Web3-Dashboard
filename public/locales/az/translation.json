@@ -1,0 +1,138 @@
+{
+  "common": {
+    "dashboard": "Panel",
+    "wallet": "Cüzdan",
+    "connect_wallet": "Cüzdanı qoş",
+    "disconnect_wallet": "Cüzdanı ayır",
+    "account": "Hesab",
+    "balance": "Balans",
+    "language": "Dil",
+    "theme": "Tema",
+    "light": "Açıq",
+    "dark": "Tünd",
+    "settings": "Ayarlar",
+    "loading": "Yüklənir...",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı!",
+    "close": "Bağla",
+    "save": "Yadda saxla",
+    "cancel": "Ləğv et",
+    "search": "Axtar",
+    "view_all": "Hamısına bax"
+  },
+
+  "navigation": {
+    "home": "Ana səhifə",
+    "dashboard": "Panel",
+    "staking": "Staking",
+    "airdrop": "Airdrop",
+    "liquidity": "Likvidlik",
+    "trade": "Al/Sat",
+    "history": "Tarixçə",
+    "faq": "Tez-tez verilən suallar",
+    "support": "Dəstək",
+    "admin": "Admin paneli",
+    "logout": "Çıxış"
+  },
+
+  "wallet": {
+    "connect": "Cüzdanı qoş",
+    "disconnect": "Cüzdanı ayır",
+    "connected": "Cüzdan qoşuldu",
+    "not_connected": "Cüzdan qoşulmayıb",
+    "choose_wallet": "Cüzdan seçin",
+    "metamask": "MetaMask",
+    "trust_wallet": "Trust Wallet",
+    "wallet_connect": "WalletConnect",
+    "wrong_network": "Yanlış şəbəkə. Zəhmət olmasa, dəstəklənən şəbəkəyə keçin."
+  },
+
+  "staking": {
+    "staking_dashboard": "Staking paneli",
+    "stake_now": "İndi stake et",
+    "stake_amount": "Stake ediləcək məbləğ",
+    "staking_balance": "Stake olunan balans",
+    "unstake": "Unstake et",
+    "rewards": "Mükafatlar",
+    "claim_rewards": "Mükafatı əldə et",
+    "history": "Staking tarixçəsi",
+    "apr": "İllik gəlir (%)"
+  },
+
+  "airdrop": {
+    "airdrop_dashboard": "Airdrop paneli",
+    "claim_airdrop": "Airdrop-u əldə et",
+    "eligible": "Siz airdrop üçün uyğunsunuz",
+    "not_eligible": "Siz airdrop üçün uyğun deyilsiniz",
+    "airdrop_rules": "Airdrop qaydaları"
+  },
+
+  "liquidity": {
+    "liquidity_pools": "Likvidlik hovuzları",
+    "add_liquidity": "Likvidlik əlavə et",
+    "your_liquidity": "Sizin likvidlik",
+    "pool_share": "Hovuz payınız",
+    "remove_liquidity": "Likvidliyi çıxar",
+    "tvl": "Ümumi hovuz dəyəri (TVL)"
+  },
+
+  "trade": {
+    "swap": "Swap",
+    "from": "Kimdən",
+    "to": "Kimə",
+    "amount": "Məbləğ",
+    "min_received": "Minimum alacağınız",
+    "price": "Qiymət",
+    "slippage": "Slippage (%)",
+    "confirm_swap": "Swap-ı təsdiqlə",
+    "swap_success": "Swap uğurla başa çatdı!"
+  },
+
+  "errors": {
+    "unknown": "Naməlum xəta baş verdi.",
+    "network_error": "Şəbəkə xətası. Yenidən cəhd edin.",
+    "insufficient_balance": "Balans kifayət etmir.",
+    "transaction_rejected": "Əməliyyat ləğv olundu.",
+    "wrong_network": "Yanlış şəbəkə.",
+    "wallet_required": "Əməliyyat üçün cüzdan lazımdır.",
+    "contract_error": "Smart contract xətası."
+  },
+
+  "modals": {
+    "confirm": "Təsdiqlə",
+    "cancel": "Ləğv et",
+    "success": "Uğurlu əməliyyat",
+    "error": "Xəta baş verdi"
+  },
+
+  "notifications": {
+    "transaction_sent": "Əməliyyat göndərildi",
+    "transaction_success": "Əməliyyat uğurla tamamlandı",
+    "transaction_failed": "Əməliyyat uğursuz oldu",
+    "copied": "Kopyalandı!"
+  },
+
+  "admin": {
+    "admin_panel": "Admin paneli",
+    "user_management": "İstifadəçi idarəetməsi",
+    "analytics": "Analitika",
+    "system_settings": "Sistem ayarları"
+  },
+
+  "faq": {
+    "how_to_connect_wallet": "Cüzdanı necə qoşmaq olar?",
+    "how_to_stake": "Necə stake edə bilərəm?",
+    "how_to_claim_airdrop": "Airdrop-u necə əldə etmək olar?",
+    "how_to_trade": "Tokenləri necə alıb/sata bilərəm?",
+    "contact_support": "Dəstək üçün necə əlaqə saxlayım?"
+  },
+
+  "footer": {
+    "powered_by": "Powered by OCOS",
+    "privacy_policy": "Məxfilik siyasəti",
+    "terms_of_service": "Xidmət şərtləri",
+    "community": "İcma",
+    "github": "GitHub",
+    "all_rights_reserved": "Bütün hüquqlar qorunur"
+  }
+}
