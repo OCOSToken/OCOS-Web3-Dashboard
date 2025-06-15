@@ -1,0 +1,156 @@
+{
+  "dashboard": "Dashboard",
+  "connect_wallet": "Connect Wallet",
+  "disconnect_wallet": "Disconnect Wallet",
+  "wallet_connected": "Wallet Connected",
+  "wallet_disconnected": "Wallet Disconnected",
+  "select_wallet": "Select Wallet",
+  "account": "Account",
+  "balance": "Balance",
+  "token_balance": "Token Balance",
+  "address": "Address",
+  "network": "Network",
+  "switch_network": "Switch Network",
+  "copy_address": "Copy Address",
+  "copied": "Copied!",
+  "language": "Language",
+  "select_language": "Select Language",
+  "settings": "Settings",
+  "theme": "Theme",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "notifications": "Notifications",
+  "help": "Help",
+  "about": "About OCOS",
+  "logout": "Logout",
+
+  "menu": {
+    "dashboard": "Dashboard",
+    "staking": "Staking",
+    "airdrop": "Airdrop",
+    "liquidity": "Liquidity",
+    "swap": "Swap",
+    "history": "History",
+    "nft": "NFT",
+    "launchpad": "Launchpad",
+    "admin_panel": "Admin Panel"
+  },
+
+  "staking": {
+    "stake_now": "Stake Now",
+    "unstake": "Unstake",
+    "staked_balance": "Staked Balance",
+    "total_staked": "Total Staked",
+    "rewards": "Rewards",
+    "claim_rewards": "Claim Rewards",
+    "staking_apr": "Staking APR",
+    "enter_amount": "Enter Amount",
+    "max": "Max",
+    "pending": "Pending",
+    "approved": "Approved"
+  },
+
+  "airdrop": {
+    "join_airdrop": "Join Airdrop",
+    "claim_airdrop": "Claim Airdrop",
+    "airdrop_status": "Airdrop Status",
+    "airdrop_rewards": "Airdrop Rewards",
+    "eligible": "Eligible",
+    "not_eligible": "Not Eligible",
+    "airdrop_history": "Airdrop History"
+  },
+
+  "liquidity": {
+    "add_liquidity": "Add Liquidity",
+    "remove_liquidity": "Remove Liquidity",
+    "liquidity_pools": "Liquidity Pools",
+    "your_liquidity": "Your Liquidity",
+    "pool_share": "Pool Share",
+    "tvl": "Total Value Locked (TVL)",
+    "apy": "APY",
+    "pair": "Pair",
+    "price": "Price"
+  },
+
+  "swap": {
+    "swap_tokens": "Swap Tokens",
+    "from": "From",
+    "to": "To",
+    "amount": "Amount",
+    "min_received": "Minimum Received",
+    "slippage": "Slippage",
+    "confirm_swap": "Confirm Swap",
+    "swap_successful": "Swap Successful!",
+    "swap_failed": "Swap Failed"
+  },
+
+  "history": {
+    "transaction_history": "Transaction History",
+    "no_transactions": "No transactions found.",
+    "all": "All",
+    "stake": "Stake",
+    "unstake": "Unstake",
+    "swap": "Swap",
+    "airdrop": "Airdrop",
+    "liquidity": "Liquidity",
+    "status": "Status",
+    "date": "Date"
+  },
+
+  "errors": {
+    "wallet_not_connected": "Wallet not connected.",
+    "wrong_network": "Please switch to the correct network.",
+    "insufficient_balance": "Insufficient balance.",
+    "transaction_failed": "Transaction failed. Please try again.",
+    "invalid_amount": "Invalid amount.",
+    "unknown_error": "An unknown error occurred."
+  },
+
+  "modals": {
+    "confirmation": "Confirmation",
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "success": "Success",
+    "error": "Error"
+  },
+
+  "tooltips": {
+    "copy_address": "Copy wallet address",
+    "show_qr": "Show QR code",
+    "view_on_explorer": "View on Block Explorer"
+  },
+
+  "forms": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "search": "Search"
+  },
+
+  "misc": {
+    "loading": "Loading...",
+    "processing": "Processing...",
+    "no_data": "No data available",
+    "powered_by": "Powered by OCOS"
+  },
+
+  "footer": {
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "community": "Community",
+    "docs": "Documentation",
+    "support": "Support"
+  },
+
+  "notifications": {
+    "transaction_sent": "Transaction sent.",
+    "transaction_confirmed": "Transaction confirmed!",
+    "transaction_pending": "Transaction pending...",
+    "airdrop_claimed": "Airdrop claimed successfully.",
+    "stake_successful": "Staking successful!",
+    "unstake_successful": "Unstaking successful!",
+    "liquidity_added": "Liquidity added successfully.",
+    "liquidity_removed": "Liquidity removed successfully."
+  }
+}
